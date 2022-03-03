@@ -3,3 +3,19 @@
     padding: 0;
 }
 
+header {
+    background-image: url(images/pattern-bg.png);
+    height: 30vh;
+    width: 100%;
+    object-fit: cover;
+}
+
+h1 {
+    color: white;
+    text-align: center;
+    padding-top: 40px;
+}
+
+.searchbar {
+    width: 30%;
+}
