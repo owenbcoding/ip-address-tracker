@@ -6,8 +6,8 @@
 header {
     background-image: url(images/pattern-bg.png);
     height: 30vh;
-    width: 100%;
-    object-fit: cover;
+    background-repeat: no-repeat;
+    background-size: 100%;
 }
 
 h1 {
